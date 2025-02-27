@@ -20,7 +20,8 @@
 - `php artisan migrate` 
 
 ### Connect MySQL GUI
+- port: `3309` 
 - hostname: `127.0.0.1`
+- database: `laravel_db`
 - username: `laravel_user`
 - password: `laravel_password`
-- port: `3309` 
